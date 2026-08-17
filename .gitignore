@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.my-env/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Chat history
+chats/*.json
+
+# Hugging Face cache
+.cache/
+huggingface_cache/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
