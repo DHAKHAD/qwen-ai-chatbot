@@ -287,7 +287,19 @@ Conversation data can include:
 JSON-based storage makes conversation data easy to inspect, back up, and transfer.
 
 ---
+## 📸 Screenshots
 
+### Chat Interface
+
+![Chat Interface](screenshots\Screenshot 2026-1 ai.png)
+
+### Chat Management
+
+![Chat Management](screenshots\Screenshot 2026-22-ai.png)
+### chat settings
+
+![chat Settings](screenshots\Screenshot 2026-setting.png)
+---
 # 🧠 How the Chatbot Works
 
 The overall application flow is:
