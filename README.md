@@ -295,7 +295,7 @@ JSON-based storage makes conversation data easy to inspect, back up, and transfe
 
 ### Chat Management
 
-![Chat Management](screenshots\Screenshot 2026-22-ai.png)
+![Chat Management](https://github.com/DHAKHAD/qwen-ai-chatbot/blob/main/screenshots/Screenshot%202026-22-ai.png)
 ### chat settings
 
 ![chat Settings](screenshots\Screenshot 2026-setting.png)
