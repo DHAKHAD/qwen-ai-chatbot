@@ -556,9 +556,9 @@ with st.sidebar:
     
             if st.button(
                 "Cancel",
-                use_container_width=True
-            ):
-    
+                use_container_width=True,
+                key="cancel_rename"
+):
                 del st.session_state.rename_chat_id
     
                 st.rerun()
@@ -621,8 +621,9 @@ with st.sidebar:
     
             if st.button(
                 "Cancel",
-                use_container_width=True
-            ):
+                use_container_width=True,
+                key="cancel_delete"
+   ):
     
                 del st.session_state.delete_chat_id
     
