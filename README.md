@@ -9,7 +9,12 @@ The project is designed to run locally and currently supports **CPU-based infere
 ---
 ## 🚀 Live Demo
 
-🔗 [Try the Qwen AI Chatbot](https://qwen-ai-chatbot.streamlit.app/)
+🔗 **[Try the Qwen AI Chatbot](https://qwen-ai-chatbot.streamlit.app/)**
+
+---
+## 💻 GitHub Repository
+
+👉 **[View Source Code](https://github.com/DHAKHAD/qwen-ai-chatbot)**
 
 ---
 ## 📌 Project Overview
