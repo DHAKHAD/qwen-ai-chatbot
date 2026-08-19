@@ -7,7 +7,11 @@ The application provides a ChatGPT-style conversational interface with **persist
 The project is designed to run locally and currently supports **CPU-based inference**.
 
 ---
+## 🚀 Live Demo
 
+🔗 [Try the Qwen AI Chatbot](https://qwen-ai-chatbot.streamlit.app/)
+
+---
 ## 📌 Project Overview
 
 The goal of this project is to build a complete local AI chatbot application rather than simply loading a language model and printing its response in the terminal.
